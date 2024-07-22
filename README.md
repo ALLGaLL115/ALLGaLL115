@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### About Me :
+### About Me
 My name is Alikhan I am Backend developer, with more then a year of developing expirience. I am develop services on FastAPI.
 
 # Stack
