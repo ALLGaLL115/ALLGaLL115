@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=ALLGaLL115&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ALLGaLL115&style=flat-square&color=blue" alt="" align="center"/>
