@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div id="badges">
+<div id="badges", align="center">
   <a href="https://www.linkedin.com/in/alikhan-galachiev-989148316/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=ALLGaLL115&style=flat-square&color=blue" alt=""/>
