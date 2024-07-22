@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ### About Me :
-My name is Alikhan I am Backend developer, with more then a year of developing expirience. I am developing services on FastAPI.
+My name is Alikhan I am Backend developer, with more then a year of developing expirience. I am develop services on FastAPI.
 
 # Stack
 
