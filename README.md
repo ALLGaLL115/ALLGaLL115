@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
+<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/:user/:repo">
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
